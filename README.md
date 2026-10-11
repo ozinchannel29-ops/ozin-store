@@ -2,7 +2,7 @@
 
 Website jasa pembuatan website untuk bisnis gaming: website top up, web store game, website JB, dan sistem JB khusus.
 
-Live: https://ozinstore.com
+Live: https://ozinweb.com
 
 ## Menjalankan di komputer
 
